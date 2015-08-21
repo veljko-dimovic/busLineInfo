@@ -1,0 +1,34 @@
+<ion-view >
+  <div class="bar bar-header bar-dark">
+        <a class="button icon-left ion-chevron-left button-clear button-light" ng-click="goBack()"></a>
+        <h1 class="title">Moje linije</h1>
+        <button class="button icon ion-gear-a button-light padding" ui-sref="favorites-settings"></button>
+      </div>
+  <ion-content class="has-header">
+    <label class="item item-input item-select">
+     <div class="input-label">
+       Prikaži podatke za:
+     </div>
+     <select ng-model="selection">
+       <option>Radni dan</option>
+       <option>Subota</option>
+       <option>Nedelja i praznik</option>
+     </select>
+     </label>
+    <ion-list
+
+      <div class="row item" ng-repeat="goTime in polasci | filter:{dan:selection}| filter:isTimePass  |orderBy:'time' | limitTo:'25' " >
+        <div class="col col-20">
+          {{goTime.time}} - {{goTime.dest}}
+        </div>
+       </div>
+      <!--<ion-item class="item-remove-animate item-icon-right row" ng-repeat="line in busLines"  type="item-text-wrap" >
+        <div class="row"  ui-sref="line({lineId:{{line.id}}})">
+        <h2 class="col col-10">{{line.id}}</h2>
+        <p class="col col-80" >{{line.name}}</p>
+        <i class="icon ion-chevron-right icon-accessory "></i>
+      </div>
+      </ion-item>-->
+     <ion-list>
+  </ion-content>
+</ion-view>

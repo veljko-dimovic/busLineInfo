@@ -1,0 +1,72 @@
+<ion-view >
+  <ion-content>
+<div class="bar bar-header bar-dark" ui-sref="map">
+      <a class="button icon-left ion-chevron-left button-clear button-light" ng-click="goBack()"></a>
+      <h1 class="title">{{activeLine.id}} {{activeLine.name}}</h1>
+      <button class="button button-light">
+          <i class="icon ion-map" ></i>
+      </button>
+    </div>
+    <div class="list has-header">
+   <label class="item item-input item-select">
+    <div class="input-label">
+      Prikaži podatke za:
+    </div>
+    <select ng-model="selection" ng-change="updateData(selection)">
+      <option>Radni dan</option>
+      <option>Subota</option>
+      <option>Nedelja i praznik</option>
+    </select>
+    </label>
+   </div>
+    <div class="list margin-top-big">
+      <div class="item item-divider">
+        Smer A {{selection}}
+      </div>
+      <div class="row item" ng-repeat="goTime in filteredItemsA" ng-if="$index % 5 === 0">
+        <div class="col col-20">
+          {{filteredItemsA[$index].time}}
+        </div>
+        <div class="col col-20">
+          {{filteredItemsA[$index+1].time}}
+        </div>
+        <div class="col col-20">
+          {{filteredItemsA[$index+2].time}}
+        </div>
+        <div class="col col-20">
+          {{filteredItemsA[$index+3].time}}
+        </div>
+        <div class="col col-20">
+          {{filteredItemsA[$index+4].time}}
+        </div>
+       </div>
+     <div class="item item-divider">
+       Smer B
+     </div>
+     <div class="row item" ng-repeat="goTime in filteredItemsB" ng-if="$index % 5 === 0">
+       <div class="col col-20">
+         {{filteredItemsB[$index].time}}
+       </div>
+       <div class="col col-20">
+         {{filteredItemsB[$index+1].time}}
+       </div>
+       <div class="col col-20">
+         {{filteredItemsB[$index+2].time}}
+       </div>
+       <div class="col col-20">
+         {{filteredItemsB[$index+3].time}}
+       </div>
+       <div class="col col-20">
+         {{filteredItemsB[$index+4].time}}
+       </div>
+      </div>
+     </div>
+     <div class="row">
+       <div class="col text-center padding-top margin-top">
+         <button class="button button-dark" ng-click="addToFavorites()">
+            Dodaj liniju u Moje linije
+         </button>
+       </div>
+     </div>
+  </ion-content>
+</ion-view>

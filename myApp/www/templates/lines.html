@@ -1,0 +1,17 @@
+<ion-view >
+  <div class="bar bar-header bar-dark">
+        <a class="button icon-left ion-chevron-left button-clear button-light" ng-click="goBack()"></a>
+        <h1 class="title">Sve linije</h1>
+      </div>
+  <ion-content class="has-header">
+    <ion-list class="has-header">
+      <ion-item class="item-remove-animate item-icon-right row" ng-repeat="line in busLines"  type="item-text-wrap" >
+        <div class="row"  ui-sref="line({lineId:{{line.id}}})">
+        <h2 class="col col-10">{{line.id}}</h2>
+        <p class="col col-80" >{{line.name}}</p>
+        <i class="icon ion-chevron-right icon-accessory "></i>
+      </div>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

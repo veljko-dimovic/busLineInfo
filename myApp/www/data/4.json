@@ -1,0 +1,499 @@
+{
+      "id":4,
+      "name":"Autobuska stanica - Stara Kolonija",
+       "polasci":[
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"06:45",
+           "smer":"smerA",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"07:45",
+           "smer":"smerA",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"08:45",
+           "smer":"smerA",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"09:45",
+           "smer":"smerA",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"10:45",
+           "smer":"smerA",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"11:45",
+           "smer":"smerA",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"12:45",
+           "smer":"smerA",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"13:45",
+           "smer":"smerA",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"14:45",
+           "smer":"smerA",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"15:45",
+           "smer":"smerA",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"16:45",
+           "smer":"smerA",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"17:45",
+           "smer":"smerA",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"18:45",
+           "smer":"smerA",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"19:45",
+           "smer":"smerA",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"20:45",
+           "smer":"smerA",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"21:45",
+           "smer":"smerA",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"22:45",
+           "smer":"smerA",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"06:30",
+           "smer":"smerB",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"07:30",
+           "smer":"smerB",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"08:30",
+           "smer":"smerB",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"09:30",
+           "smer":"smerB",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"10:30",
+           "smer":"smerB",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"11:30",
+           "smer":"smerB",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"12:30",
+           "smer":"smerB",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"13:30",
+           "smer":"smerB",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"14:30",
+           "smer":"smerB",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"15:30",
+           "smer":"smerB",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"16:30",
+           "smer":"smerB",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"17:30",
+           "smer":"smerB",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"18:30",
+           "smer":"smerB",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"19:30",
+           "smer":"smerB",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"20:30",
+           "smer":"smerB",
+           "dan":"Radni dan"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"21:30",
+           "smer":"smerB",
+           "dan":"Radni dan"
+         },   {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"06:45",
+           "smer":"smerA",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"07:45",
+           "smer":"smerA",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"08:45",
+           "smer":"smerA",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"09:45",
+           "smer":"smerA",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"10:45",
+           "smer":"smerA",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"11:45",
+           "smer":"smerA",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"12:45",
+           "smer":"smerA",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"13:45",
+           "smer":"smerA",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"14:45",
+           "smer":"smerA",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"15:45",
+           "smer":"smerA",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"16:45",
+           "smer":"smerA",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"17:45",
+           "smer":"smerA",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"18:45",
+           "smer":"smerA",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"19:45",
+           "smer":"smerA",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"20:45",
+           "smer":"smerA",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"21:45",
+           "smer":"smerA",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"22:45",
+           "smer":"smerA",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"06:15",
+           "smer":"smerB",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"07:15",
+           "smer":"smerB",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"08:15",
+           "smer":"smerB",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"09:15",
+           "smer":"smerB",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"10:15",
+           "smer":"smerB",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"11:15",
+           "smer":"smerB",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"12:15",
+           "smer":"smerB",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"13:15",
+           "smer":"smerB",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"14:15",
+           "smer":"smerB",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"15:15",
+           "smer":"smerB",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"16:15",
+           "smer":"smerB",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"17:15",
+           "smer":"smerB",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"18:15",
+           "smer":"smerB",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"19:15",
+           "smer":"smerB",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"20:15",
+           "smer":"smerB",
+           "dan":"Subota"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"21:15",
+           "smer":"smerB",
+           "dan":"Subota"
+         },   {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"06:45",
+           "smer":"smerA",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"07:45",
+           "smer":"smerA",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"08:45",
+           "smer":"smerA",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"09:45",
+           "smer":"smerA",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"10:45",
+           "smer":"smerA",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"11:45",
+           "smer":"smerA",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"12:45",
+           "smer":"smerA",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"13:45",
+           "smer":"smerA",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"14:45",
+           "smer":"smerA",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"15:45",
+           "smer":"smerA",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"16:45",
+           "smer":"smerA",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"17:45",
+           "smer":"smerA",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"18:45",
+           "smer":"smerA",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"19:45",
+           "smer":"smerA",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"20:45",
+           "smer":"smerA",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"21:45",
+           "smer":"smerA",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"22:45",
+           "smer":"smerA",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"06:50",
+           "smer":"smerB",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"07:50",
+           "smer":"smerB",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"08:50",
+           "smer":"smerB",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"09:50",
+           "smer":"smerB",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"10:50",
+           "smer":"smerB",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"11:50",
+           "smer":"smerB",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"12:50",
+           "smer":"smerB",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"13:50",
+           "smer":"smerB",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"14:50",
+           "smer":"smerB",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"15:50",
+           "smer":"smerB",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"16:50",
+           "smer":"smerB",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"17:50",
+           "smer":"smerB",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"18:50",
+           "smer":"smerB",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"19:50",
+           "smer":"smerB",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"20:50",
+           "smer":"smerB",
+           "dan":"Nedelja i praznik"
+         },
+         {
+           "dest":"Autobuska s. - Stara Kolonija", "time":"21:50",
+           "smer":"smerB",
+           "dan":"Nedelja i praznik"
+         }
+       ]
+    }

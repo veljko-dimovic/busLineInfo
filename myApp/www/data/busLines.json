@@ -1,0 +1,96 @@
+{
+  "lines":[
+    {
+      "id":1,
+      "name":"Korićani - Korman (Botunje)"
+    },
+    {
+      "id":2,
+      "name":"(Novi Milanovac) Petrovac - Ždraljica (Donja Sabanta)"
+    },
+    {
+      "id":3,
+      "name":"(Vodovod) Bresnica - Denino Brdo"
+    },
+    {
+      "id":4,
+      "name":"Autobuska stanica - Stara Kolonija"
+    },
+    {
+      "id":5,
+      "name":"Vinogradi - Male Pčelice"
+    },
+    {
+      "id":6,
+      "name":"(Kvantas) Autobuska stanica - Grosnjica"
+    },
+    {
+      "id":7,
+      "name":"Autobuska stanica - Vinjiste"
+    },
+    {
+      "id":8,
+      "name":"(Visnjak) Bagremar - Spomenik (Stara Opstina)"
+    },
+    {
+      "id":9,
+      "name":"Kozujevo - Cvetojevac"
+    },
+    {
+      "id":10,
+      "name":"Erdec - Marsic"
+    },
+    {
+      "id":11,
+      "name":"Hotel - Stanovo - Pijaca"
+    },
+    {
+      "id":12,
+      "name":"Metro - Stanovo - Metro"
+    },
+    {
+      "id":13,
+      "name":"Male Pcelice - Teferic (Trmbas)"
+    },
+    {
+      "id":15,
+      "name":"Koricani - Draca (Draca brdo)"
+    },
+    {
+      "id":16,
+      "name":"Veliko Polje - Desimirovac (selo)"
+    },
+    {
+      "id":17,
+      "name":"Baljkovac - Dom Starih (Palisad)"
+    },
+    {
+      "id":18,
+      "name":"Bozman - Mala Vaga - Bozman"
+    },
+    {
+        "id":19,
+        "name":"Denino Brdo - Centar - Denino Brdo"
+    },
+    {
+        "id":20,
+        "name":"Dragobraca - Vinogradi"
+    },
+    {
+        "id":23,
+        "name":"Bagremar - Ždraljica (Remontni Zavod)"
+    },
+      {
+        "id":24,
+        "name":"Cava - Kosutnjak brdo"
+    },
+      {
+        "id":25,
+        "name":"Erdec - Sumski raj"
+    },
+      {
+        "id":26,
+        "name":"Male Pcelice - Bresnicki do - Teferic"
+    }
+  ]
+}

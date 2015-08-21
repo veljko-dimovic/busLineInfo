@@ -1,0 +1,40 @@
+<ion-view>
+    <ion-pane>
+      <ion-header-bar class="bar-dark">
+        <h1 class="title">Red vožnje Kragujevac</h1>
+        <a class="item-icon-right" ui-sref="about">
+            <i class="icon ion-information-circled stable"></i>
+        </a>
+      </ion-header-bar>
+      <ion-content>
+      <h4 style="margin-left:7px">Sledećih 5 polazaka:</h4>
+       <ion-list>
+      <div class="row item" ng-repeat="goTime in polasci | filter:{dan:selection}| filter:isTimePass  |orderBy:'time' | limitTo:'5' " >
+        <div class="col col-20">
+          {{goTime.time}} - {{goTime.dest}}
+        </div>
+       </div>
+     </ion-list>
+      <div class="button-padding">
+        <button class="button button-dark button-block" ui-sref="lines">
+            Pregled svih linija
+        </button>
+      </div>
+      <div class="button-padding">
+        <button class="button button-dark button-block" ui-sref="favorites">
+            Moje linije
+        </button>
+      </div>
+      <div class="button-padding">
+        <button class="button button-dark button-block" ui-sref="location">
+            Na mojoj lokaciji
+        </button>
+      </div>
+      <div class="button-padding">
+        <button class="button button-dark button-block" ui-sref="alarm">
+            Upozori me
+        </button>
+      </div>
+      </ion-content>
+    </ion-pane>
+</ion-view>
